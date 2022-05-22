@@ -1,0 +1,740 @@
+Game Stats
+┌────────────────────┬───────────────────┐
+│      (index)       │      Values       │
+├────────────────────┼───────────────────┤
+│    ctRoundsWon     │        15         │
+│ terroristRoundsWon │         7         │
+│      ctScore       │        142        │
+│   terroristScore   │        111        │
+│       ctName       │  'TeamVitality'   │
+│   terroristName    │   'NAVI GGBET'    │
+│    terroristMvp    │     's1mple'      │
+│       ctMvp        │      'apEX'       │
+│  averageRoundTime  │ 89.27272727272727 │
+└────────────────────┴───────────────────┘
+<================== Stats for round 1 ==================>
+┌───────────────────┬──────────────────────┐
+│      (index)      │        Values        │
+├───────────────────┼──────────────────────┤
+│     startTime     │ '20:41:31.000+01:00' │
+│      endTime      │ '20:43:11.000+01:00' │
+│ roundTimeSeconds  │         100          │
+│      teamWon      │         'CT'         │
+│    ctTeamName     │    'TeamVitality'    │
+│ terroristTeamName │     'NAVI GGBET'     │
+│      ctScore      │          1           │
+│  terroristScore   │          0           │
+└───────────────────┴──────────────────────┘
+Terrorist players stats
+┌─────────┬──────────────┬─────────────┬─────────┬───────┬─────────┬────────────────────────────────────────────────────────────────────────────────────┬────────────┬───────────┐
+│ (index) │  playerName  │    team     │ assists │ kills │ attacks │                                    weaponsUsed                                     │ damageDone │ headShots │
+├─────────┼──────────────┼─────────────┼─────────┼───────┼─────────┼────────────────────────────────────────────────────────────────────────────────────┼────────────┼───────────┤
+│    0    │  'Perfecto'  │ 'TERRORIST' │    0    │   4   │   10    │                      'knife, glock, vesthelm, ak47, c4, vest'                      │    528     │     3     │
+│    1    │  'Boombl4'   │ 'TERRORIST' │    0    │   3   │   14    │                      'knife, glock, ak47, vesthelm, c4, vest'                      │    468     │     3     │
+│    2    │   's1mple'   │ 'TERRORIST' │    0    │  24   │   57    │               'knife, glock, vesthelm, ak47, deagle, c4, p250, vest'               │    3694    │    22     │
+│    3    │ 'electronic' │ 'TERRORIST' │    0    │   6   │   15    │ 'knife, glock, ak47, vesthelm, molotov, smokegrenade, hegrenade, sg556, flashbang' │    664     │     5     │
+│    4    │    'b1t'     │ 'TERRORIST' │    0    │   2   │    5    │              'knife, glock, vesthelm, ak47, p250, molotov, hegrenade'              │    277     │     1     │
+└─────────┴──────────────┴─────────────┴─────────┴───────┴─────────┴────────────────────────────────────────────────────────────────────────────────────┴────────────┴───────────┘
+Counter Terrorist players stats
+┌─────────┬────────────┬──────┬─────────┬───────┬─────────┬──────────────────────────────────────────────────────────────────────────────────────────────────────────┬────────────┬───────────┐
+│ (index) │ playerName │ team │ assists │ kills │ attacks │                                               weaponsUsed                                                │ damageDone │ headShots │
+├─────────┼────────────┼──────┼─────────┼───────┼─────────┼──────────────────────────────────────────────────────────────────────────────────────────────────────────┼────────────┼───────────┤
+│    0    │ 'misutaaa' │ 'CT' │    0    │   6   │   15    │                                   'knife, hkp2000, usp_silencer, vest'                                   │    677     │     5     │
+│    1    │   'apEX'   │ 'CT' │    1    │  66   │   86    │ 'knife, hkp2000, m4a1, vesthelm, m4a1_silencer, usp_silencer, smokegrenade, incgrenade, hegrenade, vest' │    8754    │    64     │
+│    2    │  'ZywOo'   │ 'CT' │    0    │  11   │   33    │      'knife, hkp2000, m4a1, vesthelm, m4a1_silencer, incgrenade, smokegrenade, vest, usp_silencer'       │    1631    │     8     │
+│    3    │  'Kyojin'  │ 'CT' │    3    │  25   │   35    │                                 'knife, hkp2000, deagle, vesthelm, vest'                                 │    4330    │    27     │
+│    4    │  'shox '   │ 'CT' │    0    │  24   │   36    │             'knife, hkp2000, vesthelm, m4a1, m4a1_silencer, deagle, vest, awp, usp_silencer'             │    3475    │    22     │
+└─────────┴────────────┴──────┴─────────┴───────┴─────────┴──────────────────────────────────────────────────────────────────────────────────────────────────────────┴────────────┴───────────┘
+<================== Stats for round 2 ==================>
+┌───────────────────┬──────────────────────┐
+│      (index)      │        Values        │
+├───────────────────┼──────────────────────┤
+│     startTime     │ '20:43:36.000+01:00' │
+│      endTime      │ '20:45:36.000+01:00' │
+│ roundTimeSeconds  │         120          │
+│      teamWon      │         'CT'         │
+│    ctTeamName     │    'TeamVitality'    │
+│ terroristTeamName │     'NAVI GGBET'     │
+│      ctScore      │          2           │
+│  terroristScore   │          0           │
+└───────────────────┴──────────────────────┘
+Terrorist players stats
+┌─────────┬──────────────┬─────────────┬─────────┬───────┬─────────┬────────────────────────────────────────┬────────────┬───────────┐
+│ (index) │  playerName  │    team     │ assists │ kills │ attacks │              weaponsUsed               │ damageDone │ headShots │
+├─────────┼──────────────┼─────────────┼─────────┼───────┼─────────┼────────────────────────────────────────┼────────────┼───────────┤
+│    0    │    'b1t'     │ 'TERRORIST' │    0    │   0   │    0    │     'knife, glock, p250, m4a1, c4'     │     0      │     0     │
+│    1    │  'Boombl4'   │ 'TERRORIST' │    0    │   0   │    0    │ 'knife, glock, deagle, flashbang, mp9' │     0      │     0     │
+│    2    │   's1mple'   │ 'TERRORIST' │    0    │   2   │    3    │    'knife, glock, deagle, c4, m4a1'    │    353     │     2     │
+│    3    │ 'electronic' │ 'TERRORIST' │    0    │   0   │    0    │      'knife, glock, smokegrenade'      │     0      │     0     │
+│    4    │  'Perfecto'  │ 'TERRORIST' │    0    │   0   │    0    │        'knife, glock, c4, p250'        │     0      │     0     │
+└─────────┴──────────────┴─────────────┴─────────┴───────┴─────────┴────────────────────────────────────────┴────────────┴───────────┘
+Counter Terrorist players stats
+┌─────────┬────────────┬──────┬─────────┬───────┬─────────┬──────────────────────────────────────────────────────────────────────┬────────────┬───────────┐
+│ (index) │ playerName │ team │ assists │ kills │ attacks │                             weaponsUsed                              │ damageDone │ headShots │
+├─────────┼────────────┼──────┼─────────┼───────┼─────────┼──────────────────────────────────────────────────────────────────────┼────────────┼───────────┤
+│    0    │  'shox '   │ 'CT' │    0    │   0   │    2    │ 'knife, hkp2000, vesthelm, mp9, smokegrenade, hegrenade, incgrenade' │     28     │     0     │
+│    1    │  'ZywOo'   │ 'CT' │    0    │   1   │    2    │    'knife, hkp2000, m4a1, vesthelm, smokegrenade, m4a1_silencer'     │    168     │     1     │
+│    2    │   'apEX'   │ 'CT' │    1    │   2   │    8    │        'm4a1, smokegrenade, flashbang, m4a1_silencer, deagle'        │    321     │     1     │
+│    3    │ 'misutaaa' │ 'CT' │    0    │   1   │    4    │            'vesthelm, m4a1, smokegrenade, m4a1_silencer'             │    157     │     0     │
+│    4    │  'Kyojin'  │ 'CT' │    0    │   1   │    1    │ 'vesthelm, mp9, incgrenade, smokegrenade, hegrenade, defuser, p250'  │     87     │     1     │
+└─────────┴────────────┴──────┴─────────┴───────┴─────────┴──────────────────────────────────────────────────────────────────────┴────────────┴───────────┘
+<================== Stats for round 3 ==================>
+┌───────────────────┬──────────────────────┐
+│      (index)      │        Values        │
+├───────────────────┼──────────────────────┤
+│     startTime     │ '20:46:37.000+01:00' │
+│      endTime      │ '20:47:58.000+01:00' │
+│ roundTimeSeconds  │          81          │
+│      teamWon      │         'CT'         │
+│    ctTeamName     │    'TeamVitality'    │
+│ terroristTeamName │     'NAVI GGBET'     │
+│      ctScore      │          3           │
+│  terroristScore   │          0           │
+└───────────────────┴──────────────────────┘
+Terrorist players stats
+┌─────────┬──────────────┬─────────────┬─────────┬───────┬─────────┬─────────────────────────────────────────────────────────────────────────────┬────────────┬───────────┐
+│ (index) │  playerName  │    team     │ assists │ kills │ attacks │                                 weaponsUsed                                 │ damageDone │ headShots │
+├─────────┼──────────────┼─────────────┼─────────┼───────┼─────────┼─────────────────────────────────────────────────────────────────────────────┼────────────┼───────────┤
+│    0    │ 'electronic' │ 'TERRORIST' │    0    │   1   │    3    │      'knife, glock, ak47, vesthelm, molotov, smokegrenade, flashbang'       │    102     │     0     │
+│    1    │  'Perfecto'  │ 'TERRORIST' │    0    │   0   │    1    │      'knife, glock, vesthelm, ak47, molotov, smokegrenade, flashbang'       │     25     │     0     │
+│    2    │   's1mple'   │ 'TERRORIST' │    0    │   1   │    5    │    'knife, glock, c4, vesthelm, ak47, smokegrenade, flashbang, molotov'     │    130     │     0     │
+│    3    │  'Boombl4'   │ 'TERRORIST' │    0    │   0   │    0    │      'knife, glock, ak47, vesthelm, smokegrenade, molotov, flashbang'       │     0      │     0     │
+│    4    │    'b1t'     │ 'TERRORIST' │    0    │   0   │    0    │ 'knife, glock, ak47, vesthelm, smokegrenade, molotov, hegrenade, flashbang' │     0      │     0     │
+└─────────┴──────────────┴─────────────┴─────────┴───────┴─────────┴─────────────────────────────────────────────────────────────────────────────┴────────────┴───────────┘
+Counter Terrorist players stats
+┌─────────┬────────────┬──────┬─────────┬───────┬─────────┬─────────────────────────────────────────────────────────────────────────────────────────────┬────────────┬───────────┐
+│ (index) │ playerName │ team │ assists │ kills │ attacks │                                         weaponsUsed                                         │ damageDone │ headShots │
+├─────────┼────────────┼──────┼─────────┼───────┼─────────┼─────────────────────────────────────────────────────────────────────────────────────────────┼────────────┼───────────┤
+│    0    │  'ZywOo'   │ 'CT' │    0    │   2   │    6    │                  'm4a1, smokegrenade, flashbang, hegrenade, m4a1_silencer'                  │    204     │     1     │
+│    1    │   'apEX'   │ 'CT' │    1    │   0   │    1    │                         'm4a1, smokegrenade, hegrenade, flashbang'                          │     26     │     0     │
+│    2    │  'Kyojin'  │ 'CT' │    0    │   1   │    4    │         'm4a1, incgrenade, smokegrenade, hegrenade, m4a1_silencer, ak47, flashbang'         │    110     │     0     │
+│    3    │  'shox '   │ 'CT' │    0    │   2   │    7    │ 'knife, hkp2000, vest, m4a1, incgrenade, smokegrenade, hegrenade, flashbang, m4a1_silencer' │    196     │     0     │
+│    4    │ 'misutaaa' │ 'CT' │    0    │   0   │    0    │       'knife, hkp2000, m4a1, vesthelm, incgrenade, smokegrenade, hegrenade, defuser'        │     0      │     0     │
+└─────────┴────────────┴──────┴─────────┴───────┴─────────┴─────────────────────────────────────────────────────────────────────────────────────────────┴────────────┴───────────┘
+<================== Stats for round 4 ==================>
+┌───────────────────┬──────────────────────┐
+│      (index)      │        Values        │
+├───────────────────┼──────────────────────┤
+│     startTime     │ '20:48:23.000+01:00' │
+│      endTime      │ '20:48:52.000+01:00' │
+│ roundTimeSeconds  │          29          │
+│      teamWon      │         'CT'         │
+│    ctTeamName     │    'TeamVitality'    │
+│ terroristTeamName │     'NAVI GGBET'     │
+│      ctScore      │          4           │
+│  terroristScore   │          0           │
+└───────────────────┴──────────────────────┘
+Terrorist players stats
+┌─────────┬──────────────┬─────────────┬─────────┬───────┬─────────┬─────────────────────────────────────────────────────────────────────────┬────────────┬───────────┐
+│ (index) │  playerName  │    team     │ assists │ kills │ attacks │                               weaponsUsed                               │ damageDone │ headShots │
+├─────────┼──────────────┼─────────────┼─────────┼───────┼─────────┼─────────────────────────────────────────────────────────────────────────┼────────────┼───────────┤
+│    0    │ 'electronic' │ 'TERRORIST' │    0    │   0   │    1    │    'knife, glock, c4, tec9, vest, molotov, smokegrenade, flashbang'     │     23     │     0     │
+│    1    │  'Perfecto'  │ 'TERRORIST' │    0    │   1   │    5    │                  'knife, glock, vest, tec9, flashbang'                  │    127     │     0     │
+│    2    │   's1mple'   │ 'TERRORIST' │    0    │   0   │    0    │         'knife, glock, vesthelm, flashbang, molotov, ak47, c4'          │     0      │     0     │
+│    3    │  'Boombl4'   │ 'TERRORIST' │    0    │   0   │    0    │        'knife, glock, tec9, vesthelm, smokegrenade, c4, molotov'        │     0      │     0     │
+│    4    │    'b1t'     │ 'TERRORIST' │    0    │   1   │    1    │ 'knife, glock, tec9, vest, molotov, smokegrenade, hegrenade, flashbang' │     89     │     1     │
+└─────────┴──────────────┴─────────────┴─────────┴───────┴─────────┴─────────────────────────────────────────────────────────────────────────┴────────────┴───────────┘
+Counter Terrorist players stats
+┌─────────┬────────────┬──────┬─────────┬───────┬─────────┬───────────────────────────────────────────────────────────────────────────────────────────┬────────────┬───────────┐
+│ (index) │ playerName │ team │ assists │ kills │ attacks │                                        weaponsUsed                                        │ damageDone │ headShots │
+├─────────┼────────────┼──────┼─────────┼───────┼─────────┼───────────────────────────────────────────────────────────────────────────────────────────┼────────────┼───────────┤
+│    0    │  'shox '   │ 'CT' │    1    │   2   │    6    │                     'ak47, smokegrenade, vesthelm, m4a1, incgrenade'                      │    301     │     1     │
+│    1    │   'apEX'   │ 'CT' │    0    │   0   │    0    │           'knife, hkp2000, vesthelm, smokegrenade, flashbang, hegrenade, m4a1'            │     0      │     0     │
+│    2    │  'ZywOo'   │ 'CT' │    0    │   0   │    0    │ 'knife, hkp2000, m4a1, vesthelm, incgrenade, smokegrenade, flashbang, hegrenade, defuser' │     0      │     0     │
+│    3    │ 'misutaaa' │ 'CT' │    0    │   2   │    5    │                'smokegrenade, incgrenade, flashbang, m4a1, m4a1_silencer'                 │    148     │     0     │
+│    4    │  'Kyojin'  │ 'CT' │    1    │   1   │    6    │                     'incgrenade, smokegrenade, hegrenade, ak47, p250'                     │    163     │     0     │
+└─────────┴────────────┴──────┴─────────┴───────┴─────────┴───────────────────────────────────────────────────────────────────────────────────────────┴────────────┴───────────┘
+<================== Stats for round 5 ==================>
+┌───────────────────┬──────────────────────┐
+│      (index)      │        Values        │
+├───────────────────┼──────────────────────┤
+│     startTime     │ '20:49:17.000+01:00' │
+│      endTime      │ '20:50:35.000+01:00' │
+│ roundTimeSeconds  │          78          │
+│      teamWon      │         'CT'         │
+│    ctTeamName     │    'TeamVitality'    │
+│ terroristTeamName │     'NAVI GGBET'     │
+│      ctScore      │          5           │
+│  terroristScore   │          0           │
+└───────────────────┴──────────────────────┘
+Terrorist players stats
+┌─────────┬──────────────┬─────────────┬─────────┬───────┬─────────┬──────────────────────────────────────────────────────────────────────────────────┬────────────┬───────────┐
+│ (index) │  playerName  │    team     │ assists │ kills │ attacks │                                   weaponsUsed                                    │ damageDone │ headShots │
+├─────────┼──────────────┼─────────────┼─────────┼───────┼─────────┼──────────────────────────────────────────────────────────────────────────────────┼────────────┼───────────┤
+│    0    │    'b1t'     │ 'TERRORIST' │    0    │   1   │    5    │  'knife, glock, vesthelm, smokegrenade, molotov, hegrenade, flashbang, galilar'  │    185     │     1     │
+│    1    │   's1mple'   │ 'TERRORIST' │    0    │   1   │   14    │ 'knife, glock, galilar, vesthelm, smokegrenade, flashbang, c4, molotov, inferno' │    103     │     0     │
+│    2    │  'Perfecto'  │ 'TERRORIST' │    0    │   0   │    0    │         'knife, glock, vesthelm, ak47, molotov, smokegrenade, flashbang'         │     0      │     0     │
+│    3    │  'Boombl4'   │ 'TERRORIST' │    0    │   1   │    2    │     'knife, glock, c4, galilar, vesthelm, smokegrenade, molotov, flashbang'      │    180     │     2     │
+│    4    │ 'electronic' │ 'TERRORIST' │    0    │   0   │    0    │       'knife, glock, ak47, vesthelm, molotov, smokegrenade, flashbang, c4'       │     0      │     0     │
+└─────────┴──────────────┴─────────────┴─────────┴───────┴─────────┴──────────────────────────────────────────────────────────────────────────────────┴────────────┴───────────┘
+Counter Terrorist players stats
+┌─────────┬────────────┬──────┬─────────┬───────┬─────────┬───────────────────────────────────────────────────────────────────────────────────────────┬────────────┬───────────┐
+│ (index) │ playerName │ team │ assists │ kills │ attacks │                                        weaponsUsed                                        │ damageDone │ headShots │
+├─────────┼────────────┼──────┼─────────┼───────┼─────────┼───────────────────────────────────────────────────────────────────────────────────────────┼────────────┼───────────┤
+│    0    │ 'misutaaa' │ 'CT' │    0    │   1   │    3    │                'tec9, ak47, m4a1, incgrenade, smokegrenade, m4a1_silencer'                │     92     │     0     │
+│    1    │  'ZywOo'   │ 'CT' │    1    │   0   │    3    │                                          'ak47'                                           │     65     │     0     │
+│    2    │   'apEX'   │ 'CT' │    0    │   3   │   12    │                      'smokegrenade, hegrenade, m4a1, m4a1_silencer'                       │    233     │     1     │
+│    3    │  'Kyojin'  │ 'CT' │    1    │   0   │    5    │ 'knife, hkp2000, vesthelm, m4a1, incgrenade, smokegrenade, flashbang, hegrenade, defuser' │     87     │     0     │
+│    4    │  'shox '   │ 'CT' │    0    │   1   │    4    │        'knife, hkp2000, ak47, vest, incgrenade, smokegrenade, hegrenade, defuser'         │    121     │     0     │
+└─────────┴────────────┴──────┴─────────┴───────┴─────────┴───────────────────────────────────────────────────────────────────────────────────────────┴────────────┴───────────┘
+<================== Stats for round 6 ==================>
+┌───────────────────┬──────────────────────┐
+│      (index)      │        Values        │
+├───────────────────┼──────────────────────┤
+│     startTime     │ '20:51:38.000+01:00' │
+│      endTime      │ '20:53:02.000+01:00' │
+│ roundTimeSeconds  │          84          │
+│      teamWon      │         'CT'         │
+│    ctTeamName     │    'TeamVitality'    │
+│ terroristTeamName │     'NAVI GGBET'     │
+│      ctScore      │          6           │
+│  terroristScore   │          0           │
+└───────────────────┴──────────────────────┘
+Terrorist players stats
+┌─────────┬──────────────┬─────────────┬─────────┬───────┬─────────┬───────────────────────────────────────────────────────────────────────────────────────┬────────────┬───────────┐
+│ (index) │  playerName  │    team     │ assists │ kills │ attacks │                                      weaponsUsed                                      │ damageDone │ headShots │
+├─────────┼──────────────┼─────────────┼─────────┼───────┼─────────┼───────────────────────────────────────────────────────────────────────────────────────┼────────────┼───────────┤
+│    0    │   's1mple'   │ 'TERRORIST' │    1    │   1   │    4    │                   'knife, glock, molotov, flashbang, deagle, tec9'                    │    151     │     1     │
+│    1    │ 'electronic' │ 'TERRORIST' │    1    │   1   │   11    │                    'knife, glock, mac10, vest, smokegrenade, m4a1'                    │    195     │     1     │
+│    2    │  'Perfecto'  │ 'TERRORIST' │    0    │   1   │    3    │            'knife, glock, c4, vest, deagle, flashbang, smokegrenade, ak47'            │    148     │     0     │
+│    3    │    'b1t'     │ 'TERRORIST' │    0    │   0   │    0    │ 'knife, glock, smokegrenade, molotov, hegrenade, vest, tec9, vesthelm, flashbang, c4' │     0      │     0     │
+│    4    │  'Boombl4'   │ 'TERRORIST' │    0    │   0   │    0    │           'knife, glock, tec9, vesthelm, smokegrenade, hegrenade, molotov'            │     0      │     0     │
+└─────────┴──────────────┴─────────────┴─────────┴───────┴─────────┴───────────────────────────────────────────────────────────────────────────────────────┴────────────┴───────────┘
+Counter Terrorist players stats
+┌─────────┬────────────┬──────┬─────────┬───────┬─────────┬─────────────────────────────────────────────────────────────────────────────────────────────────┬────────────┬───────────┐
+│ (index) │ playerName │ team │ assists │ kills │ attacks │                                           weaponsUsed                                           │ damageDone │ headShots │
+├─────────┼────────────┼──────┼─────────┼───────┼─────────┼─────────────────────────────────────────────────────────────────────────────────────────────────┼────────────┼───────────┤
+│    0    │  'Kyojin'  │ 'CT' │    1    │   1   │    5    │ 'knife, hkp2000, vesthelm, incgrenade, smokegrenade, flashbang, hegrenade, defuser, m4a1, ak47' │    233     │     2     │
+│    1    │  'ZywOo'   │ 'CT' │    1    │   1   │    4    │  'knife, hkp2000, vesthelm, m4a1, incgrenade, smokegrenade, flashbang, defuser, m4a1_silencer'  │    111     │     0     │
+│    2    │   'apEX'   │ 'CT' │    0    │   1   │    2    │ 'knife, hkp2000, m4a1, vesthelm, smokegrenade, flashbang, incgrenade, hegrenade, m4a1_silencer' │     50     │     0     │
+│    3    │ 'misutaaa' │ 'CT' │    0    │   2   │    7    │                         'incgrenade, smokegrenade, m4a1, m4a1_silencer'                         │    222     │     0     │
+│    4    │  'shox '   │ 'CT' │    0    │   0   │    0    │                      'vesthelm, incgrenade, smokegrenade, flashbang, m4a1'                      │     0      │     0     │
+└─────────┴────────────┴──────┴─────────┴───────┴─────────┴─────────────────────────────────────────────────────────────────────────────────────────────────┴────────────┴───────────┘
+<================== Stats for round 7 ==================>
+┌───────────────────┬──────────────────────┐
+│      (index)      │        Values        │
+├───────────────────┼──────────────────────┤
+│     startTime     │ '20:53:27.000+01:00' │
+│      endTime      │ '20:54:53.000+01:00' │
+│ roundTimeSeconds  │          86          │
+│      teamWon      │         'CT'         │
+│    ctTeamName     │    'TeamVitality'    │
+│ terroristTeamName │     'NAVI GGBET'     │
+│      ctScore      │          6           │
+│  terroristScore   │          1           │
+└───────────────────┴──────────────────────┘
+Terrorist players stats
+┌─────────┬──────────────┬─────────────┬─────────┬───────┬─────────┬─────────────────────────────────────────────────────────────────────────────────────────┬────────────┬───────────┐
+│ (index) │  playerName  │    team     │ assists │ kills │ attacks │                                       weaponsUsed                                       │ damageDone │ headShots │
+├─────────┼──────────────┼─────────────┼─────────┼───────┼─────────┼─────────────────────────────────────────────────────────────────────────────────────────┼────────────┼───────────┤
+│    0    │  'Boombl4'   │ 'TERRORIST' │    0    │   0   │    1    │     'knife, glock, galilar, vesthelm, smokegrenade, hegrenade, molotov, flashbang'      │     28     │     0     │
+│    1    │   's1mple'   │ 'TERRORIST' │    0    │   0   │    0    │          'knife, glock, c4, vesthelm, ak47, smokegrenade, flashbang, molotov'           │     0      │     0     │
+│    2    │  'Perfecto'  │ 'TERRORIST' │    0    │   2   │    5    │ 'knife, glock, vesthelm, ak47, molotov, hegrenade, smokegrenade, flashbang, incgrenade' │    296     │     2     │
+│    3    │    'b1t'     │ 'TERRORIST' │    0    │   1   │    1    │            'knife, glock, vesthelm, smokegrenade, molotov, flashbang, ak47'             │    108     │     1     │
+│    4    │ 'electronic' │ 'TERRORIST' │    1    │   1   │    2    │            'knife, glock, ak47, vesthelm, molotov, smokegrenade, flashbang'             │    166     │     1     │
+└─────────┴──────────────┴─────────────┴─────────┴───────┴─────────┴─────────────────────────────────────────────────────────────────────────────────────────┴────────────┴───────────┘
+Counter Terrorist players stats
+┌─────────┬────────────┬──────┬─────────┬───────┬─────────┬────────────────────────────────────────────────────────────────────────────────────────────────┬────────────┬───────────┐
+│ (index) │ playerName │ team │ assists │ kills │ attacks │                                          weaponsUsed                                           │ damageDone │ headShots │
+├─────────┼────────────┼──────┼─────────┼───────┼─────────┼────────────────────────────────────────────────────────────────────────────────────────────────┼────────────┼───────────┤
+│    0    │   'apEX'   │ 'CT' │    0    │   0   │    1    │          'knife, hkp2000, m4a1, vest, smokegrenade, incgrenade, flashbang, hegrenade'          │     25     │     0     │
+│    1    │  'ZywOo'   │ 'CT' │    0    │   1   │    1    │              'knife, hkp2000, vesthelm, incgrenade, smokegrenade, awp, flashbang'              │    138     │     0     │
+│    2    │  'Kyojin'  │ 'CT' │    0    │   0   │    0    │ 'knife, hkp2000, vesthelm, incgrenade, smokegrenade, flashbang, hegrenade, defuser, m4a1, awp' │     0      │     0     │
+│    3    │ 'misutaaa' │ 'CT' │    0    │   1   │    3    │                'incgrenade, smokegrenade, hegrenade, awp, m4a1, m4a1_silencer'                 │    115     │     1     │
+│    4    │  'shox '   │ 'CT' │    0    │   0   │    0    │                          'm4a1, incgrenade, smokegrenade, hegrenade'                           │     0      │     0     │
+└─────────┴────────────┴──────┴─────────┴───────┴─────────┴────────────────────────────────────────────────────────────────────────────────────────────────┴────────────┴───────────┘
+<================== Stats for round 8 ==================>
+┌───────────────────┬──────────────────────┐
+│      (index)      │        Values        │
+├───────────────────┼──────────────────────┤
+│     startTime     │ '20:55:51.000+01:00' │
+│      endTime      │ '20:57:43.000+01:00' │
+│ roundTimeSeconds  │         112          │
+│      teamWon      │         'CT'         │
+│    ctTeamName     │    'TeamVitality'    │
+│ terroristTeamName │     'NAVI GGBET'     │
+│      ctScore      │          7           │
+│  terroristScore   │          1           │
+└───────────────────┴──────────────────────┘
+Terrorist players stats
+┌─────────┬──────────────┬─────────────┬─────────┬───────┬─────────┬─────────────────────────────────────────────────────────────────────────────────┬────────────┬───────────┐
+│ (index) │  playerName  │    team     │ assists │ kills │ attacks │                                   weaponsUsed                                   │ damageDone │ headShots │
+├─────────┼──────────────┼─────────────┼─────────┼───────┼─────────┼─────────────────────────────────────────────────────────────────────────────────┼────────────┼───────────┤
+│    0    │    'b1t'     │ 'TERRORIST' │    0    │   1   │    4    │ 'knife, glock, c4, ak47, vesthelm, smokegrenade, molotov, flashbang, hegrenade' │    197     │     1     │
+│    1    │  'Boombl4'   │ 'TERRORIST' │    0    │   0   │    0    │        'knife, glock, ak47, vesthelm, smokegrenade, molotov, flashbang'         │     0      │     0     │
+│    2    │ 'electronic' │ 'TERRORIST' │    0    │   0   │    1    │                         'smokegrenade, flashbang, ak47'                         │     27     │     0     │
+│    3    │  'Perfecto'  │ 'TERRORIST' │    1    │   0   │    3    │                    'ak47, molotov, smokegrenade, flashbang'                     │     59     │     0     │
+│    4    │   's1mple'   │ 'TERRORIST' │    0    │   2   │    4    │                        'ak47, smokegrenade, c4, inferno'                        │    164     │     1     │
+└─────────┴──────────────┴─────────────┴─────────┴───────┴─────────┴─────────────────────────────────────────────────────────────────────────────────┴────────────┴───────────┘
+Counter Terrorist players stats
+┌─────────┬────────────┬──────┬─────────┬───────┬─────────┬─────────────────────────────────────────────────────────────────────────────────────────────┬────────────┬───────────┐
+│ (index) │ playerName │ team │ assists │ kills │ attacks │                                         weaponsUsed                                         │ damageDone │ headShots │
+├─────────┼────────────┼──────┼─────────┼───────┼─────────┼─────────────────────────────────────────────────────────────────────────────────────────────┼────────────┼───────────┤
+│    0    │ 'misutaaa' │ 'CT' │    0    │   1   │    4    │     'knife, hkp2000, m4a1, vesthelm, smokegrenade, incgrenade, defuser, m4a1_silencer'      │    110     │     0     │
+│    1    │  'shox '   │ 'CT' │    0    │   3   │    8    │ 'knife, hkp2000, vest, m4a1, incgrenade, smokegrenade, hegrenade, flashbang, m4a1_silencer' │    345     │     2     │
+│    2    │   'apEX'   │ 'CT' │    0    │   1   │    1    │            'knife, hkp2000, m4a1, vest, flashbang, defuser, m4a1_silencer, awp'             │     26     │     0     │
+│    3    │  'ZywOo'   │ 'CT' │    0    │   0   │    0    │               'knife, hkp2000, awp, m4a1, vesthelm, smokegrenade, flashbang'                │     0      │     0     │
+│    4    │  'Kyojin'  │ 'CT' │    1    │   0   │    3    │                                    'm4a1, smokegrenade'                                     │     85     │     0     │
+└─────────┴────────────┴──────┴─────────┴───────┴─────────┴─────────────────────────────────────────────────────────────────────────────────────────────┴────────────┴───────────┘
+<================== Stats for round 9 ==================>
+┌───────────────────┬──────────────────────┐
+│      (index)      │        Values        │
+├───────────────────┼──────────────────────┤
+│     startTime     │ '20:58:08.000+01:00' │
+│      endTime      │ '21:00:13.000+01:00' │
+│ roundTimeSeconds  │         125          │
+│      teamWon      │         'CT'         │
+│    ctTeamName     │    'TeamVitality'    │
+│ terroristTeamName │     'NAVI GGBET'     │
+│      ctScore      │          8           │
+│  terroristScore   │          1           │
+└───────────────────┴──────────────────────┘
+Terrorist players stats
+┌─────────┬──────────────┬─────────────┬─────────┬───────┬─────────┬─────────────────────────────────────────────────────────────────────────────────┬────────────┬───────────┐
+│ (index) │  playerName  │    team     │ assists │ kills │ attacks │                                   weaponsUsed                                   │ damageDone │ headShots │
+├─────────┼──────────────┼─────────────┼─────────┼───────┼─────────┼─────────────────────────────────────────────────────────────────────────────────┼────────────┼───────────┤
+│    0    │  'Boombl4'   │ 'TERRORIST' │    0    │   0   │    0    │        'knife, glock, ak47, vesthelm, smokegrenade, molotov, flashbang'         │     0      │     0     │
+│    1    │  'Perfecto'  │ 'TERRORIST' │    0    │   0   │    0    │ 'knife, glock, c4, vesthelm, ak47, molotov, hegrenade, smokegrenade, flashbang' │     0      │     0     │
+│    2    │   's1mple'   │ 'TERRORIST' │    0    │   1   │    1    │             'knife, glock, awp, vesthelm, smokegrenade, flashbang'              │    139     │     0     │
+│    3    │    'b1t'     │ 'TERRORIST' │    0    │   1   │    1    │ 'knife, glock, ak47, vesthelm, smokegrenade, molotov, flashbang, hegrenade, c4' │    105     │     1     │
+│    4    │ 'electronic' │ 'TERRORIST' │    1    │   1   │    8    │      'knife, glock, c4, ak47, vesthelm, molotov, smokegrenade, flashbang'       │    229     │     1     │
+└─────────┴──────────────┴─────────────┴─────────┴───────┴─────────┴─────────────────────────────────────────────────────────────────────────────────┴────────────┴───────────┘
+Counter Terrorist players stats
+┌─────────┬────────────┬──────┬─────────┬───────┬─────────┬───────────────────────────────────────────────────────────────────────────────────────────┬────────────┬───────────┐
+│ (index) │ playerName │ team │ assists │ kills │ attacks │                                        weaponsUsed                                        │ damageDone │ headShots │
+├─────────┼────────────┼──────┼─────────┼───────┼─────────┼───────────────────────────────────────────────────────────────────────────────────────────┼────────────┼───────────┤
+│    0    │ 'misutaaa' │ 'CT' │    1    │   0   │    2    │                        'm4a1, smokegrenade, hegrenade, flashbang'                         │     52     │     0     │
+│    1    │  'shox '   │ 'CT' │    0    │   2   │    4    │    'knife, hkp2000, vesthelm, m4a1, smokegrenade, flashbang, hegrenade, m4a1_silencer'    │    167     │     1     │
+│    2    │  'Kyojin'  │ 'CT' │    0    │   0   │    1    │ 'knife, hkp2000, vesthelm, m4a1, incgrenade, smokegrenade, hegrenade, defuser, flashbang' │     5      │     0     │
+│    3    │  'ZywOo'   │ 'CT' │    0    │   1   │    1    │       'knife, hkp2000, awp, vesthelm, incgrenade, smokegrenade, flashbang, defuser'       │    110     │     0     │
+│    4    │   'apEX'   │ 'CT' │    0    │   2   │    8    │              'm4a1, smokegrenade, hegrenade, m4a1_silencer, flashbang, awp'               │    246     │     1     │
+└─────────┴────────────┴──────┴─────────┴───────┴─────────┴───────────────────────────────────────────────────────────────────────────────────────────┴────────────┴───────────┘
+<================== Stats for round 10 ==================>
+┌───────────────────┬──────────────────────┐
+│      (index)      │        Values        │
+├───────────────────┼──────────────────────┤
+│     startTime     │ '21:01:12.000+01:00' │
+│      endTime      │ '21:02:14.000+01:00' │
+│ roundTimeSeconds  │          62          │
+│      teamWon      │         'CT'         │
+│    ctTeamName     │    'TeamVitality'    │
+│ terroristTeamName │     'NAVI GGBET'     │
+│      ctScore      │          9           │
+│  terroristScore   │          1           │
+└───────────────────┴──────────────────────┘
+Terrorist players stats
+┌─────────┬──────────────┬─────────────┬─────────┬───────┬─────────┬─────────────────────────────────────────────────────────────────────────────┬────────────┬───────────┐
+│ (index) │  playerName  │    team     │ assists │ kills │ attacks │                                 weaponsUsed                                 │ damageDone │ headShots │
+├─────────┼──────────────┼─────────────┼─────────┼───────┼─────────┼─────────────────────────────────────────────────────────────────────────────┼────────────┼───────────┤
+│    0    │   's1mple'   │ 'TERRORIST' │    1    │   0   │    3    │           'knife, glock, vesthelm, ak47, smokegrenade, flashbang'           │     66     │     0     │
+│    1    │ 'electronic' │ 'TERRORIST' │    0    │   0   │    0    │      'knife, glock, ak47, vesthelm, molotov, smokegrenade, flashbang'       │     0      │     0     │
+│    2    │    'b1t'     │ 'TERRORIST' │    0    │   1   │    7    │ 'knife, glock, ak47, vesthelm, smokegrenade, molotov, flashbang, hegrenade' │    196     │     0     │
+│    3    │  'Boombl4'   │ 'TERRORIST' │    0    │   0   │    0    │    'knife, glock, c4, ak47, vesthelm, smokegrenade, molotov, flashbang'     │     0      │     0     │
+│    4    │  'Perfecto'  │ 'TERRORIST' │    0    │   0   │    0    │   'knife, glock, vesthelm, smokegrenade, molotov, flashbang, galilar, c4'   │     0      │     0     │
+└─────────┴──────────────┴─────────────┴─────────┴───────┴─────────┴─────────────────────────────────────────────────────────────────────────────┴────────────┴───────────┘
+Counter Terrorist players stats
+┌─────────┬────────────┬──────┬─────────┬───────┬─────────┬────────────────────────────────────────────────────────────────────────────────┬────────────┬───────────┐
+│ (index) │ playerName │ team │ assists │ kills │ attacks │                                  weaponsUsed                                   │ damageDone │ headShots │
+├─────────┼────────────┼──────┼─────────┼───────┼─────────┼────────────────────────────────────────────────────────────────────────────────┼────────────┼───────────┤
+│    0    │  'Kyojin'  │ 'CT' │    0    │   1   │    1    │                  'ak47, incgrenade, smokegrenade, hegrenade'                   │    106     │     1     │
+│    1    │  'ZywOo'   │ 'CT' │    0    │   1   │    1    │ 'knife, hkp2000, awp, vesthelm, incgrenade, smokegrenade, flashbang, defuser'  │    108     │     0     │
+│    2    │  'shox '   │ 'CT' │    0    │   0   │    1    │   'knife, hkp2000, vesthelm, mp9, smokegrenade, hegrenade, ak47, flashbang'    │     12     │     0     │
+│    3    │ 'misutaaa' │ 'CT' │    0    │   0   │    0    │ 'knife, hkp2000, m4a1, vesthelm, smokegrenade, incgrenade, hegrenade, defuser' │     0      │     0     │
+│    4    │   'apEX'   │ 'CT' │    0    │   3   │   11    │                   'm4a1, hegrenade, m4a1_silencer, hkp2000'                    │    400     │     2     │
+└─────────┴────────────┴──────┴─────────┴───────┴─────────┴────────────────────────────────────────────────────────────────────────────────┴────────────┴───────────┘
+<================== Stats for round 11 ==================>
+┌───────────────────┬──────────────────────┐
+│      (index)      │        Values        │
+├───────────────────┼──────────────────────┤
+│     startTime     │ '21:02:39.000+01:00' │
+│      endTime      │ '21:05:10.000+01:00' │
+│ roundTimeSeconds  │         151          │
+│      teamWon      │         'CT'         │
+│    ctTeamName     │    'TeamVitality'    │
+│ terroristTeamName │     'NAVI GGBET'     │
+│      ctScore      │          9           │
+│  terroristScore   │          2           │
+└───────────────────┴──────────────────────┘
+Terrorist players stats
+┌─────────┬──────────────┬─────────────┬─────────┬───────┬─────────┬────────────────────────────────────────────────────────────────────────────────┬────────────┬───────────┐
+│ (index) │  playerName  │    team     │ assists │ kills │ attacks │                                  weaponsUsed                                   │ damageDone │ headShots │
+├─────────┼──────────────┼─────────────┼─────────┼───────┼─────────┼────────────────────────────────────────────────────────────────────────────────┼────────────┼───────────┤
+│    0    │  'Perfecto'  │ 'TERRORIST' │    0    │   1   │    4    │ 'knife, glock, c4, vesthelm, galilar, molotov, smokegrenade, flashbang, ak47'  │    108     │     0     │
+│    1    │    'b1t'     │ 'TERRORIST' │    0    │   0   │    0    │ 'knife, glock, galilar, vesthelm, smokegrenade, molotov, hegrenade, flashbang' │     0      │     0     │
+│    2    │ 'electronic' │ 'TERRORIST' │    0    │   1   │    2    │        'knife, glock, ak47, vesthelm, molotov, smokegrenade, flashbang'        │    142     │     1     │
+│    3    │  'Boombl4'   │ 'TERRORIST' │    0    │   0   │    0    │         'knife, glock, galilar, vesthelm, smokegrenade, flashbang, c4'         │     0      │     0     │
+│    4    │   's1mple'   │ 'TERRORIST' │    0    │   1   │    5    │          'knife, glock, vesthelm, ak47, smokegrenade, flashbang, c4'           │    115     │     0     │
+└─────────┴──────────────┴─────────────┴─────────┴───────┴─────────┴────────────────────────────────────────────────────────────────────────────────┴────────────┴───────────┘
+Counter Terrorist players stats
+┌─────────┬────────────┬──────┬─────────┬───────┬─────────┬───────────────────────────────────────────────────────────────────────────────┬────────────┬───────────┐
+│ (index) │ playerName │ team │ assists │ kills │ attacks │                                  weaponsUsed                                  │ damageDone │ headShots │
+├─────────┼────────────┼──────┼─────────┼───────┼─────────┼───────────────────────────────────────────────────────────────────────────────┼────────────┼───────────┤
+│    0    │  'shox '   │ 'CT' │    0    │   1   │    3    │         'awp, defuser, flashbang, m4a1, smokegrenade, m4a1_silencer'          │    144     │     1     │
+│    1    │  'ZywOo'   │ 'CT' │    0    │   0   │    0    │ 'knife, hkp2000, vesthelm, awp, incgrenade, smokegrenade, flashbang, defuser' │     0      │     0     │
+│    2    │  'Kyojin'  │ 'CT' │    0    │   0   │    0    │               'incgrenade, smokegrenade, flashbang, hegrenade'                │     0      │     0     │
+│    3    │ 'misutaaa' │ 'CT' │    0    │   0   │    1    │                               'flashbang, m4a1'                               │     26     │     0     │
+│    4    │   'apEX'   │ 'CT' │    0    │   0   │    2    │            'smokegrenade, flashbang, hegrenade, m4a1, incgrenade'             │     52     │     0     │
+└─────────┴────────────┴──────┴─────────┴───────┴─────────┴───────────────────────────────────────────────────────────────────────────────┴────────────┴───────────┘
+<================== Stats for round 12 ==================>
+┌───────────────────┬──────────────────────┐
+│      (index)      │        Values        │
+├───────────────────┼──────────────────────┤
+│     startTime     │ '21:06:10.000+01:00' │
+│      endTime      │ '21:07:42.000+01:00' │
+│ roundTimeSeconds  │          92          │
+│      teamWon      │         'CT'         │
+│    ctTeamName     │    'TeamVitality'    │
+│ terroristTeamName │     'NAVI GGBET'     │
+│      ctScore      │          9           │
+│  terroristScore   │          3           │
+└───────────────────┴──────────────────────┘
+Terrorist players stats
+┌─────────┬──────────────┬─────────────┬─────────┬───────┬─────────┬──────────────────────────────────────────────────────────┬────────────┬───────────┐
+│ (index) │  playerName  │    team     │ assists │ kills │ attacks │                       weaponsUsed                        │ damageDone │ headShots │
+├─────────┼──────────────┼─────────────┼─────────┼───────┼─────────┼──────────────────────────────────────────────────────────┼────────────┼───────────┤
+│    0    │  'Boombl4'   │ 'TERRORIST' │    0    │   3   │   12    │ 'knife, glock, galilar, vesthelm, smokegrenade, molotov' │    322     │     2     │
+│    1    │   's1mple'   │ 'TERRORIST' │    0    │   0   │    0    │          'c4, smokegrenade, flashbang, molotov'          │     0      │     0     │
+│    2    │ 'electronic' │ 'TERRORIST' │    1    │   0   │    2    │         'molotov, smokegrenade, flashbang, ak47'         │     52     │     0     │
+│    3    │    'b1t'     │ 'TERRORIST' │    0    │   2   │    2    │  'molotov, smokegrenade, hegrenade, flashbang, galilar'  │    234     │     2     │
+│    4    │  'Perfecto'  │ 'TERRORIST' │    0    │   0   │    0    │    'c4, molotov, smokegrenade, hegrenade, flashbang'     │     0      │     0     │
+└─────────┴──────────────┴─────────────┴─────────┴───────┴─────────┴──────────────────────────────────────────────────────────┴────────────┴───────────┘
+Counter Terrorist players stats
+┌─────────┬────────────┬──────┬─────────┬───────┬─────────┬──────────────────────────────────────────────────────────────────────────────────────────────────────────┬────────────┬───────────┐
+│ (index) │ playerName │ team │ assists │ kills │ attacks │                                               weaponsUsed                                                │ damageDone │ headShots │
+├─────────┼────────────┼──────┼─────────┼───────┼─────────┼──────────────────────────────────────────────────────────────────────────────────────────────────────────┼────────────┼───────────┤
+│    0    │  'shox '   │ 'CT' │    0    │   1   │    7    │      'knife, hkp2000, m4a1, vesthelm, smokegrenade, hegrenade, incgrenade, m4a1_silencer, defuser'       │    221     │     1     │
+│    1    │  'Kyojin'  │ 'CT' │    0    │   2   │    5    │ 'knife, hkp2000, vesthelm, m4a1, incgrenade, smokegrenade, hegrenade, flashbang, defuser, ak47, molotov' │    234     │     1     │
+│    2    │ 'misutaaa' │ 'CT' │    0    │   0   │    0    │                           'knife, hkp2000, vest, m4a1, smokegrenade, defuser'                            │     0      │     0     │
+│    3    │   'apEX'   │ 'CT' │    0    │   1   │    2    │                                   'm4a1, smokegrenade, m4a1_silencer'                                    │    116     │     1     │
+│    4    │  'ZywOo'   │ 'CT' │    0    │   0   │    0    │                                  'm4a1, awp, incgrenade, smokegrenade'                                   │     0      │     0     │
+└─────────┴────────────┴──────┴─────────┴───────┴─────────┴──────────────────────────────────────────────────────────────────────────────────────────────────────────┴────────────┴───────────┘
+<================== Stats for round 13 ==================>
+┌───────────────────┬──────────────────────┐
+│      (index)      │        Values        │
+├───────────────────┼──────────────────────┤
+│     startTime     │ '21:08:08.000+01:00' │
+│      endTime      │ '21:09:15.000+01:00' │
+│ roundTimeSeconds  │          67          │
+│      teamWon      │         'CT'         │
+│    ctTeamName     │    'TeamVitality'    │
+│ terroristTeamName │     'NAVI GGBET'     │
+│      ctScore      │          10          │
+│  terroristScore   │          3           │
+└───────────────────┴──────────────────────┘
+Terrorist players stats
+┌─────────┬──────────────┬─────────────┬─────────┬───────┬─────────┬─────────────────────────────────────────────────────────────────────────────────┬────────────┬───────────┐
+│ (index) │  playerName  │    team     │ assists │ kills │ attacks │                                   weaponsUsed                                   │ damageDone │ headShots │
+├─────────┼──────────────┼─────────────┼─────────┼───────┼─────────┼─────────────────────────────────────────────────────────────────────────────────┼────────────┼───────────┤
+│    0    │  'Boombl4'   │ 'TERRORIST' │    0    │   1   │    4    │  'awp, m4a1, smokegrenade, vest, hegrenade, molotov, flashbang, m4a1_silencer'  │    148     │     0     │
+│    1    │    'b1t'     │ 'TERRORIST' │    0    │   0   │    0    │ 'knife, glock, c4, ak47, vesthelm, smokegrenade, molotov, hegrenade, flashbang' │     0      │     0     │
+│    2    │ 'electronic' │ 'TERRORIST' │    0    │   1   │    5    │        'knife, glock, ak47, vesthelm, molotov, smokegrenade, flashbang'         │    155     │     0     │
+│    3    │   's1mple'   │ 'TERRORIST' │    0    │   0   │    0    │      'knife, glock, vesthelm, ak47, smokegrenade, flashbang, molotov, c4'       │     0      │     0     │
+│    4    │  'Perfecto'  │ 'TERRORIST' │    0    │   1   │    3    │   'knife, glock, vesthelm, ak47, molotov, hegrenade, smokegrenade, flashbang'   │    121     │     0     │
+└─────────┴──────────────┴─────────────┴─────────┴───────┴─────────┴─────────────────────────────────────────────────────────────────────────────────┴────────────┴───────────┘
+Counter Terrorist players stats
+┌─────────┬────────────┬──────┬─────────┬───────┬─────────┬─────────────────────────────────────────────┬────────────┬───────────┐
+│ (index) │ playerName │ team │ assists │ kills │ attacks │                 weaponsUsed                 │ damageDone │ headShots │
+├─────────┼────────────┼──────┼─────────┼───────┼─────────┼─────────────────────────────────────────────┼────────────┼───────────┤
+│    0    │  'Kyojin'  │ 'CT' │    0    │   2   │    2    │     'knife, hkp2000, deagle, hegrenade'     │    292     │     2     │
+│    1    │ 'misutaaa' │ 'CT' │    0    │   1   │    3    │          'knife, hkp2000, deagle'           │    109     │     0     │
+│    2    │  'ZywOo'   │ 'CT' │    0    │   1   │    1    │           'knife, hkp2000, taser'           │    169     │     0     │
+│    3    │  'shox '   │ 'CT' │    1    │   0   │    1    │  'knife, hkp2000, deagle, ak47, flashbang'  │     44     │     0     │
+│    4    │   'apEX'   │ 'CT' │    0    │   1   │    2    │ 'knife, hkp2000, m4a1, vest, m4a1_silencer' │    117     │     1     │
+└─────────┴────────────┴──────┴─────────┴───────┴─────────┴─────────────────────────────────────────────┴────────────┴───────────┘
+<================== Stats for round 14 ==================>
+┌───────────────────┬──────────────────────┐
+│      (index)      │        Values        │
+├───────────────────┼──────────────────────┤
+│     startTime     │ '21:09:40.000+01:00' │
+│      endTime      │ '21:10:54.000+01:00' │
+│ roundTimeSeconds  │          74          │
+│      teamWon      │         'CT'         │
+│    ctTeamName     │    'TeamVitality'    │
+│ terroristTeamName │     'NAVI GGBET'     │
+│      ctScore      │          11          │
+│  terroristScore   │          3           │
+└───────────────────┴──────────────────────┘
+Terrorist players stats
+┌─────────┬──────────────┬─────────────┬─────────┬───────┬─────────┬──────────────────────────────────────────────────────────────────────────────────────┬────────────┬───────────┐
+│ (index) │  playerName  │    team     │ assists │ kills │ attacks │                                     weaponsUsed                                      │ damageDone │ headShots │
+├─────────┼──────────────┼─────────────┼─────────┼───────┼─────────┼──────────────────────────────────────────────────────────────────────────────────────┼────────────┼───────────┤
+│    0    │    'b1t'     │ 'TERRORIST' │    1    │   0   │    0    │       'knife, glock, vesthelm, smokegrenade, molotov, flashbang, galilar, c4'        │     0      │     0     │
+│    1    │  'Boombl4'   │ 'TERRORIST' │    0    │   0   │    0    │   'knife, glock, c4, ak47, vesthelm, smokegrenade, hegrenade, molotov, flashbang'    │     0      │     0     │
+│    2    │   's1mple'   │ 'TERRORIST' │    0    │   0   │    1    │   'knife, glock, molotov, flashbang, smokegrenade, vesthelm, deagle, c4, galilar'    │     33     │     0     │
+│    3    │  'Perfecto'  │ 'TERRORIST' │    0    │   1   │    4    │ 'knife, glock, vest, galilar, molotov, smokegrenade, hegrenade, flashbang, vesthelm' │    115     │     1     │
+│    4    │ 'electronic' │ 'TERRORIST' │    0    │   0   │    0    │         'knife, glock, c4, ak47, vesthelm, molotov, smokegrenade, flashbang'         │     0      │     0     │
+└─────────┴──────────────┴─────────────┴─────────┴───────┴─────────┴──────────────────────────────────────────────────────────────────────────────────────┴────────────┴───────────┘
+Counter Terrorist players stats
+┌─────────┬────────────┬──────┬─────────┬───────┬─────────┬───────────────────────────────────────────────────────────────────────────────────────────────┬────────────┬───────────┐
+│ (index) │ playerName │ team │ assists │ kills │ attacks │                                          weaponsUsed                                          │ damageDone │ headShots │
+├─────────┼────────────┼──────┼─────────┼───────┼─────────┼───────────────────────────────────────────────────────────────────────────────────────────────┼────────────┼───────────┤
+│    0    │ 'misutaaa' │ 'CT' │    0    │   0   │    0    │             'ak47, flashbang, vesthelm, defuser, incgrenade, smokegrenade, m4a1'              │     0      │     0     │
+│    1    │   'apEX'   │ 'CT' │    1    │   0   │   12    │                'ak47, hegrenade, smokegrenade, flashbang, incgrenade, inferno'                │     72     │     0     │
+│    2    │  'shox '   │ 'CT' │    1    │   2   │   11    │ 'knife, hkp2000, vesthelm, m4a1, incgrenade, smokegrenade, hegrenade, inferno, m4a1_silencer' │    318     │     1     │
+│    3    │  'ZywOo'   │ 'CT' │    0    │   3   │    3    │    'knife, hkp2000, vesthelm, incgrenade, smokegrenade, flashbang, defuser, ak47, molotov'    │    283     │     3     │
+│    4    │  'Kyojin'  │ 'CT' │    0    │   0   │    0    │   'knife, hkp2000, m4a1, vesthelm, incgrenade, smokegrenade, defuser, hegrenade, flashbang'   │     0      │     0     │
+└─────────┴────────────┴──────┴─────────┴───────┴─────────┴───────────────────────────────────────────────────────────────────────────────────────────────┴────────────┴───────────┘
+<================== Stats for round 15 ==================>
+┌───────────────────┬──────────────────────┐
+│      (index)      │        Values        │
+├───────────────────┼──────────────────────┤
+│     startTime     │ '21:11:19.000+01:00' │
+│      endTime      │ '21:12:27.000+01:00' │
+│ roundTimeSeconds  │          68          │
+│      teamWon      │         'CT'         │
+│    ctTeamName     │    'TeamVitality'    │
+│ terroristTeamName │     'NAVI GGBET'     │
+│      ctScore      │          11          │
+│  terroristScore   │          4           │
+└───────────────────┴──────────────────────┘
+Terrorist players stats
+┌─────────┬──────────────┬─────────────┬─────────┬───────┬─────────┬─────────────────────────────────────────────────────────────────────────────────────┬────────────┬───────────┐
+│ (index) │  playerName  │    team     │ assists │ kills │ attacks │                                     weaponsUsed                                     │ damageDone │ headShots │
+├─────────┼──────────────┼─────────────┼─────────┼───────┼─────────┼─────────────────────────────────────────────────────────────────────────────────────┼────────────┼───────────┤
+│    0    │  'Boombl4'   │ 'TERRORIST' │    0    │   1   │    1    │        'knife, glock, c4, flashbang, tec9, vesthelm, smokegrenade, molotov'         │    109     │     1     │
+│    1    │ 'electronic' │ 'TERRORIST' │    0    │   0   │    0    │ 'knife, glock, deagle, vesthelm, molotov, smokegrenade, flashbang, m4a1, hegrenade' │     0      │     0     │
+│    2    │    'b1t'     │ 'TERRORIST' │    1    │   1   │    4    │  'knife, glock, vesthelm, smokegrenade, molotov, hegrenade, tec9, flashbang, ak47'  │    172     │     1     │
+│    3    │   's1mple'   │ 'TERRORIST' │    0    │   2   │    3    │             'knife, glock, vesthelm, ak47, smokegrenade, c4, flashbang'             │    140     │     1     │
+│    4    │  'Perfecto'  │ 'TERRORIST' │    1    │   1   │    3    │      'knife, glock, vesthelm, deagle, molotov, smokegrenade, flashbang, ak47'       │    172     │     1     │
+└─────────┴──────────────┴─────────────┴─────────┴───────┴─────────┴─────────────────────────────────────────────────────────────────────────────────────┴────────────┴───────────┘
+Counter Terrorist players stats
+┌─────────┬────────────┬──────┬─────────┬───────┬─────────┬──────────────────────────────────────────────────────────────────────────────────────────────────────────────────┬────────────┬───────────┐
+│ (index) │ playerName │ team │ assists │ kills │ attacks │                                                   weaponsUsed                                                    │ damageDone │ headShots │
+├─────────┼────────────┼──────┼─────────┼───────┼─────────┼──────────────────────────────────────────────────────────────────────────────────────────────────────────────────┼────────────┼───────────┤
+│    0    │  'shox '   │ 'CT' │    0    │   1   │    2    │ 'knife, hkp2000, m4a1, vesthelm, defuser, incgrenade, smokegrenade, hegrenade, flashbang, deagle, m4a1_silencer' │    117     │     1     │
+│    1    │ 'misutaaa' │ 'CT' │    0    │   0   │    1    │                                         'incgrenade, smokegrenade, m4a1'                                         │     25     │     0     │
+│    2    │  'ZywOo'   │ 'CT' │    0    │   0   │    2    │                                                'fiveseven, ak47'                                                 │     51     │     0     │
+│    3    │   'apEX'   │ 'CT' │    0    │   0   │    6    │                    'vesthelm, hegrenade, incgrenade, defuser, fiveseven, m4a1, ak47, inferno'                    │     48     │     0     │
+│    4    │  'Kyojin'  │ 'CT' │    0    │   0   │    0    │                                  'incgrenade, smokegrenade, hegrenade, deagle'                                   │     0      │     0     │
+└─────────┴────────────┴──────┴─────────┴───────┴─────────┴──────────────────────────────────────────────────────────────────────────────────────────────────────────────────┴────────────┴───────────┘
+<================== Stats for round 16 ==================>
+┌───────────────────┬──────────────────────┐
+│      (index)      │        Values        │
+├───────────────────┼──────────────────────┤
+│     startTime     │ '21:15:59.000+01:00' │
+│      endTime      │ '21:16:44.000+01:00' │
+│ roundTimeSeconds  │          45          │
+│      teamWon      │     'TERRORIST'      │
+│    ctTeamName     │     'NAVI GGBET'     │
+│ terroristTeamName │    'TeamVitality'    │
+│      ctScore      │          5           │
+│  terroristScore   │          11          │
+└───────────────────┴──────────────────────┘
+Terrorist players stats
+┌─────────┬────────────┬─────────────┬─────────┬───────┬─────────┬───────────────────────────────────────────┬────────────┬───────────┐
+│ (index) │ playerName │    team     │ assists │ kills │ attacks │                weaponsUsed                │ damageDone │ headShots │
+├─────────┼────────────┼─────────────┼─────────┼───────┼─────────┼───────────────────────────────────────────┼────────────┼───────────┤
+│    0    │ 'misutaaa' │ 'TERRORIST' │    0    │   0   │    0    │           'knife, glock, vest'            │     0      │     0     │
+│    1    │  'Kyojin'  │ 'TERRORIST' │    0    │   0   │    0    │    'knife, glock, c4, p250, flashbang'    │     0      │     0     │
+│    2    │  'ZywOo'   │ 'TERRORIST' │    0    │   0   │    0    │   'knife, glock, p250, vest, flashbang'   │     0      │     0     │
+│    3    │  'shox '   │ 'TERRORIST' │    0    │   0   │    1    │        'knife, glock, vest, p250'         │     34     │     0     │
+│    4    │   'apEX'   │ 'TERRORIST' │    0    │   0   │    0    │ 'knife, glock, p250, vest, flashbang, c4' │     0      │     0     │
+└─────────┴────────────┴─────────────┴─────────┴───────┴─────────┴───────────────────────────────────────────┴────────────┴───────────┘
+Counter Terrorist players stats
+┌─────────┬──────────────┬──────┬─────────┬───────┬─────────┬──────────────────────────────────────┬────────────┬───────────┐
+│ (index) │  playerName  │ team │ assists │ kills │ attacks │             weaponsUsed              │ damageDone │ headShots │
+├─────────┼──────────────┼──────┼─────────┼───────┼─────────┼──────────────────────────────────────┼────────────┼───────────┤
+│    0    │ 'electronic' │ 'CT' │    3    │   0   │    5    │     'knife, hkp2000, flashbang'      │     80     │     0     │
+│    1    │  'Boombl4'   │ 'CT' │    0    │   2   │    6    │    'knife, hkp2000, elite, vest'     │    249     │     1     │
+│    2    │   's1mple'   │ 'CT' │    0    │   1   │    2    │ 'knife, hkp2000, vest, usp_silencer' │    118     │     1     │
+│    3    │    'b1t'     │ 'CT' │    0    │   1   │    2    │ 'knife, hkp2000, vest, usp_silencer' │     31     │     0     │
+│    4    │  'Perfecto'  │ 'CT' │    0    │   1   │    1    │    'knife, hkp2000, vest, elite'     │    121     │     1     │
+└─────────┴──────────────┴──────┴─────────┴───────┴─────────┴──────────────────────────────────────┴────────────┴───────────┘
+<================== Stats for round 17 ==================>
+┌───────────────────┬──────────────────────┐
+│      (index)      │        Values        │
+├───────────────────┼──────────────────────┤
+│     startTime     │ '21:17:09.000+01:00' │
+│      endTime      │ '21:18:44.000+01:00' │
+│ roundTimeSeconds  │          95          │
+│      teamWon      │     'TERRORIST'      │
+│    ctTeamName     │     'NAVI GGBET'     │
+│ terroristTeamName │    'TeamVitality'    │
+│      ctScore      │          6           │
+│  terroristScore   │          11          │
+└───────────────────┴──────────────────────┘
+Terrorist players stats
+┌─────────┬────────────┬─────────────┬─────────┬───────┬─────────┬──────────────────────────┬────────────┬───────────┐
+│ (index) │ playerName │    team     │ assists │ kills │ attacks │       weaponsUsed        │ damageDone │ headShots │
+├─────────┼────────────┼─────────────┼─────────┼───────┼─────────┼──────────────────────────┼────────────┼───────────┤
+│    0    │  'Kyojin'  │ 'TERRORIST' │    0    │   0   │    1    │      'knife, glock'      │     10     │     0     │
+│    1    │ 'misutaaa' │ 'TERRORIST' │    0    │   0   │    0    │      'knife, glock'      │     0      │     0     │
+│    2    │  'ZywOo'   │ 'TERRORIST' │    0    │   0   │    0    │    'knife, glock, c4'    │     0      │     0     │
+│    3    │   'apEX'   │ 'TERRORIST' │    0    │   0   │    0    │ 'knife, glock, p250, c4' │     0      │     0     │
+│    4    │  'shox '   │ 'TERRORIST' │    0    │   0   │    1    │      'knife, glock'      │     11     │     0     │
+└─────────┴────────────┴─────────────┴─────────┴───────┴─────────┴──────────────────────────┴────────────┴───────────┘
+Counter Terrorist players stats
+┌─────────┬──────────────┬──────┬─────────┬───────┬─────────┬─────────────────────────────────────────────────────────────┬────────────┬───────────┐
+│ (index) │  playerName  │ team │ assists │ kills │ attacks │                         weaponsUsed                         │ damageDone │ headShots │
+├─────────┼──────────────┼──────┼─────────┼───────┼─────────┼─────────────────────────────────────────────────────────────┼────────────┼───────────┤
+│    0    │    'b1t'     │ 'CT' │    0    │   3   │    7    │ 'p250, vesthelm, famas, smokegrenade, hegrenade, flashbang' │    457     │     3     │
+│    1    │  'Perfecto'  │ 'CT' │    0    │   0   │    0    │   'vesthelm, famas, incgrenade, smokegrenade, hegrenade'    │     0      │     0     │
+│    2    │   's1mple'   │ 'CT' │    1    │   2   │    7    │        'm4a1, vesthelm, smokegrenade, m4a1_silencer'        │    295     │     0     │
+│    3    │ 'electronic' │ 'CT' │    0    │   0   │    0    │          'mp7, vesthelm, smokegrenade, hegrenade'           │     0      │     0     │
+│    4    │  'Boombl4'   │ 'CT' │    0    │   0   │    0    │          'm4a1, vesthelm, smokegrenade, flashbang'          │     0      │     0     │
+└─────────┴──────────────┴──────┴─────────┴───────┴─────────┴─────────────────────────────────────────────────────────────┴────────────┴───────────┘
+<================== Stats for round 18 ==================>
+┌───────────────────┬──────────────────────┐
+│      (index)      │        Values        │
+├───────────────────┼──────────────────────┤
+│     startTime     │ '21:19:09.000+01:00' │
+│      endTime      │ '21:21:11.000+01:00' │
+│ roundTimeSeconds  │         122          │
+│      teamWon      │     'TERRORIST'      │
+│    ctTeamName     │     'NAVI GGBET'     │
+│ terroristTeamName │    'TeamVitality'    │
+│      ctScore      │          6           │
+│  terroristScore   │          12          │
+└───────────────────┴──────────────────────┘
+Terrorist players stats
+┌─────────┬────────────┬─────────────┬─────────┬───────┬─────────┬───────────────────────────────────────────────────────────┬────────────┬───────────┐
+│ (index) │ playerName │    team     │ assists │ kills │ attacks │                        weaponsUsed                        │ damageDone │ headShots │
+├─────────┼────────────┼─────────────┼─────────┼───────┼─────────┼───────────────────────────────────────────────────────────┼────────────┼───────────┤
+│    0    │   'apEX'   │ 'TERRORIST' │    0    │   2   │    6    │     'knife, glock, c4, ak47, vesthelm, smokegrenade'      │    232     │     2     │
+│    1    │  'shox '   │ 'TERRORIST' │    0    │   0   │    1    │       'knife, glock, vesthelm, ak47, smokegrenade'        │     27     │     0     │
+│    2    │  'ZywOo'   │ 'TERRORIST' │    0    │   1   │    3    │  'knife, glock, ak47, vesthelm, smokegrenade, flashbang'  │    163     │     1     │
+│    3    │  'Kyojin'  │ 'TERRORIST' │    0    │   0   │    2    │  'knife, glock, vesthelm, ak47, hegrenade, smokegrenade'  │     29     │     0     │
+│    4    │ 'misutaaa' │ 'TERRORIST' │    0    │   2   │    3    │ 'knife, glock, vesthelm, smokegrenade, ak47, molotov, c4' │    250     │     2     │
+└─────────┴────────────┴─────────────┴─────────┴───────┴─────────┴───────────────────────────────────────────────────────────┴────────────┴───────────┘
+Counter Terrorist players stats
+┌─────────┬──────────────┬──────┬─────────┬───────┬─────────┬─────────────────────────────────────────────────────────────────┬────────────┬───────────┐
+│ (index) │  playerName  │ team │ assists │ kills │ attacks │                           weaponsUsed                           │ damageDone │ headShots │
+├─────────┼──────────────┼──────┼─────────┼───────┼─────────┼─────────────────────────────────────────────────────────────────┼────────────┼───────────┤
+│    0    │   's1mple'   │ 'CT' │    0    │   3   │   11    │   'p250, smokegrenade, flashbang, m4a1, m4a1_silencer, ak47'    │    347     │     1     │
+│    1    │    'b1t'     │ 'CT' │    1    │   0   │    4    │          'incgrenade, smokegrenade, hegrenade, famas'           │     63     │     0     │
+│    2    │ 'electronic' │ 'CT' │    0    │   0   │    0    │ 'incgrenade, smokegrenade, hegrenade, defuser, flashbang, m4a1' │     0      │     0     │
+│    3    │  'Perfecto'  │ 'CT' │    0    │   1   │    2    │      'incgrenade, smokegrenade, flashbang, defuser, famas'      │     83     │     1     │
+│    4    │  'Boombl4'   │ 'CT' │    0    │   0   │    1    │                 'mp7, smokegrenade, incgrenade'                 │     63     │     1     │
+└─────────┴──────────────┴──────┴─────────┴───────┴─────────┴─────────────────────────────────────────────────────────────────┴────────────┴───────────┘
+<================== Stats for round 19 ==================>
+┌───────────────────┬──────────────────────┐
+│      (index)      │        Values        │
+├───────────────────┼──────────────────────┤
+│     startTime     │ '21:21:36.000+01:00' │
+│      endTime      │ '21:23:05.000+01:00' │
+│ roundTimeSeconds  │          89          │
+│      teamWon      │     'TERRORIST'      │
+│    ctTeamName     │     'NAVI GGBET'     │
+│ terroristTeamName │    'TeamVitality'    │
+│      ctScore      │          6           │
+│  terroristScore   │          13          │
+└───────────────────┴──────────────────────┘
+Terrorist players stats
+┌─────────┬────────────┬─────────────┬─────────┬───────┬─────────┬─────────────────────────────────────────────────────────────────────────┬────────────┬───────────┐
+│ (index) │ playerName │    team     │ assists │ kills │ attacks │                               weaponsUsed                               │ damageDone │ headShots │
+├─────────┼────────────┼─────────────┼─────────┼───────┼─────────┼─────────────────────────────────────────────────────────────────────────┼────────────┼───────────┤
+│    0    │   'apEX'   │ 'TERRORIST' │    0    │   3   │    6    │              'knife, glock, ak47, vesthelm, smokegrenade'               │    324     │     2     │
+│    1    │  'ZywOo'   │ 'TERRORIST' │    1    │   0   │    2    │ 'knife, glock, galilar, vesthelm, smokegrenade, flashbang, molotov, c4' │     42     │     0     │
+│    2    │  'shox '   │ 'TERRORIST' │    0    │   1   │    3    │    'knife, glock, vesthelm, ak47, molotov, smokegrenade, flashbang'     │    102     │     0     │
+│    3    │  'Kyojin'  │ 'TERRORIST' │    1    │   0   │    2    │          'knife, glock, galilar, vesthelm, smokegrenade, ak47'          │     54     │     0     │
+│    4    │ 'misutaaa' │ 'TERRORIST' │    0    │   1   │    2    │              'c4, smokegrenade, ak47, molotov, flashbang'               │     54     │     0     │
+└─────────┴────────────┴─────────────┴─────────┴───────┴─────────┴─────────────────────────────────────────────────────────────────────────┴────────────┴───────────┘
+Counter Terrorist players stats
+┌─────────┬──────────────┬──────┬─────────┬───────┬─────────┬─────────────────────────────────────────────────────────────────────────────────┬────────────┬───────────┐
+│ (index) │  playerName  │ team │ assists │ kills │ attacks │                                   weaponsUsed                                   │ damageDone │ headShots │
+├─────────┼──────────────┼──────┼─────────┼───────┼─────────┼─────────────────────────────────────────────────────────────────────────────────┼────────────┼───────────┤
+│    0    │ 'electronic' │ 'CT' │    0    │   0   │    0    │                   'knife, hkp2000, famas, vest, smokegrenade'                   │     0      │     0     │
+│    1    │  'Perfecto'  │ 'CT' │    0    │   0   │    1    │      'knife, hkp2000, vesthelm, incgrenade, mp9, smokegrenade, hegrenade'       │     12     │     0     │
+│    2    │   's1mple'   │ 'CT' │    0    │   1   │    1    │                         'knife, hkp2000, awp, vesthelm'                         │    110     │     0     │
+│    3    │    'b1t'     │ 'CT' │    0    │   1   │    5    │        'knife, hkp2000, m4a1, vest, smokegrenade, incgrenade, flashbang'        │    115     │     0     │
+│    4    │  'Boombl4'   │ 'CT' │    0    │   0   │    0    │ 'knife, hkp2000, mp9, vesthelm, smokegrenade, hegrenade, incgrenade, flashbang' │     0      │     0     │
+└─────────┴──────────────┴──────┴─────────┴───────┴─────────┴─────────────────────────────────────────────────────────────────────────────────┴────────────┴───────────┘
+<================== Stats for round 20 ==================>
+┌───────────────────┬──────────────────────┐
+│      (index)      │        Values        │
+├───────────────────┼──────────────────────┤
+│     startTime     │ '21:23:30.000+01:00' │
+│      endTime      │ '21:24:28.000+01:00' │
+│ roundTimeSeconds  │          58          │
+│      teamWon      │     'TERRORIST'      │
+│    ctTeamName     │     'NAVI GGBET'     │
+│ terroristTeamName │    'TeamVitality'    │
+│      ctScore      │          6           │
+│  terroristScore   │          14          │
+└───────────────────┴──────────────────────┘
+Terrorist players stats
+┌─────────┬────────────┬─────────────┬─────────┬───────┬─────────┬─────────────────────────────────────────────────────────────────────────────────┬────────────┬───────────┐
+│ (index) │ playerName │    team     │ assists │ kills │ attacks │                                   weaponsUsed                                   │ damageDone │ headShots │
+├─────────┼────────────┼─────────────┼─────────┼───────┼─────────┼─────────────────────────────────────────────────────────────────────────────────┼────────────┼───────────┤
+│    0    │  'ZywOo'   │ 'TERRORIST' │    0    │   2   │    7    │                                  'ak47, p250'                                   │    227     │     0     │
+│    1    │ 'misutaaa' │ 'TERRORIST' │    1    │   0   │    3    │                       'flashbang, smokegrenade, ak47, c4'                       │     77     │     0     │
+│    2    │  'shox '   │ 'TERRORIST' │    0    │   3   │    5    │            'knife, glock, c4, vesthelm, ak47, smokegrenade, deagle'             │    295     │     1     │
+│    3    │  'Kyojin'  │ 'TERRORIST' │    0    │   0   │    0    │ 'knife, glock, ak47, vesthelm, molotov, smokegrenade, flashbang, hegrenade, c4' │     0      │     0     │
+│    4    │   'apEX'   │ 'TERRORIST' │    0    │   0   │    2    │                      'smokegrenade, flashbang, hegrenade'                       │     8      │     0     │
+└─────────┴────────────┴─────────────┴─────────┴───────┴─────────┴─────────────────────────────────────────────────────────────────────────────────┴────────────┴───────────┘
+Counter Terrorist players stats
+┌─────────┬──────────────┬──────┬─────────┬───────┬─────────┬────────────────────────────────┬────────────┬───────────┐
+│ (index) │  playerName  │ team │ assists │ kills │ attacks │          weaponsUsed           │ damageDone │ headShots │
+├─────────┼──────────────┼──────┼─────────┼───────┼─────────┼────────────────────────────────┼────────────┼───────────┤
+│    0    │    'b1t'     │ 'CT' │    0    │   0   │    2    │        'knife, hkp2000'        │    115     │     2     │
+│    1    │  'Perfecto'  │ 'CT' │    0    │   0   │    1    │    'knife, hkp2000, taser'     │     15     │     0     │
+│    2    │ 'electronic' │ 'CT' │    0    │   0   │    0    │        'knife, hkp2000'        │     0      │     0     │
+│    3    │   's1mple'   │ 'CT' │    0    │   0   │    0    │    'knife, hkp2000, deagle'    │     0      │     0     │
+│    4    │  'Boombl4'   │ 'CT' │    0    │   0   │    1    │ 'knife, hkp2000, smokegrenade' │     14     │     0     │
+└─────────┴──────────────┴──────┴─────────┴───────┴─────────┴────────────────────────────────┴────────────┴───────────┘
+<================== Stats for round 21 ==================>
+┌───────────────────┬──────────────────────┐
+│      (index)      │        Values        │
+├───────────────────┼──────────────────────┤
+│     startTime     │ '21:25:28.000+01:00' │
+│      endTime      │ '21:27:22.000+01:00' │
+│ roundTimeSeconds  │         114          │
+│      teamWon      │     'TERRORIST'      │
+│    ctTeamName     │     'NAVI GGBET'     │
+│ terroristTeamName │    'TeamVitality'    │
+│      ctScore      │          6           │
+│  terroristScore   │          15          │
+└───────────────────┴──────────────────────┘
+Terrorist players stats
+┌─────────┬────────────┬─────────────┬─────────┬───────┬─────────┬──────────────────────────────────────────┬────────────┬───────────┐
+│ (index) │ playerName │    team     │ assists │ kills │ attacks │               weaponsUsed                │ damageDone │ headShots │
+├─────────┼────────────┼─────────────┼─────────┼───────┼─────────┼──────────────────────────────────────────┼────────────┼───────────┤
+│    0    │   'apEX'   │ 'TERRORIST' │    1    │   1   │   10    │  'hkp2000, molotov, c4, inferno, ak47'   │    247     │     1     │
+│    1    │  'Kyojin'  │ 'TERRORIST' │    0    │   1   │    7    │      'c4, ak47, inferno, flashbang'      │     70     │     0     │
+│    2    │  'shox '   │ 'TERRORIST' │    0    │   0   │    3    │ 'smokegrenade, flashbang, molotov, ak47' │     88     │     0     │
+│    3    │ 'misutaaa' │ 'TERRORIST' │    1    │   1   │   12    │          'vest, inferno, ak47'           │    190     │     1     │
+│    4    │  'ZywOo'   │ 'TERRORIST' │    0    │   0   │    0    │             'hegrenade, c4'              │     0      │     0     │
+└─────────┴────────────┴─────────────┴─────────┴───────┴─────────┴──────────────────────────────────────────┴────────────┴───────────┘
+Counter Terrorist players stats
+┌─────────┬──────────────┬──────┬─────────┬───────┬─────────┬─────────────────────────────────────────────────────────────────────────────────────────┬────────────┬───────────┐
+│ (index) │  playerName  │ team │ assists │ kills │ attacks │                                       weaponsUsed                                       │ damageDone │ headShots │
+├─────────┼──────────────┼──────┼─────────┼───────┼─────────┼─────────────────────────────────────────────────────────────────────────────────────────┼────────────┼───────────┤
+│    0    │  'Boombl4'   │ 'CT' │    0    │   0   │    1    │      'knife, hkp2000, famas, vest, smokegrenade, hegrenade, incgrenade, flashbang'      │     1      │     0     │
+│    1    │    'b1t'     │ 'CT' │    0    │   0   │    0    │ 'knife, hkp2000, vest, smokegrenade, famas, vesthelm, incgrenade, hegrenade, flashbang' │     0      │     0     │
+│    2    │  'Perfecto'  │ 'CT' │    0    │   0   │    1    │      'knife, hkp2000, famas, vest, smokegrenade, incgrenade, flashbang, hegrenade'      │     19     │     0     │
+│    3    │ 'electronic' │ 'CT' │    0    │   1   │    5    │          'knife, hkp2000, m4a1, vest, smokegrenade, hegrenade, m4a1_silencer'           │    104     │     0     │
+│    4    │   's1mple'   │ 'CT' │    0    │   0   │    2    │                         'knife, hkp2000, vest, m4a1, flashbang'                         │     15     │     0     │
+└─────────┴──────────────┴──────┴─────────┴───────┴─────────┴─────────────────────────────────────────────────────────────────────────────────────────┴────────────┴───────────┘
+<================== Stats for round 22 ==================>
+┌───────────────────┬──────────────────────┐
+│      (index)      │        Values        │
+├───────────────────┼──────────────────────┤
+│     startTime     │ '21:28:25.000+01:00' │
+│      endTime      │ '21:30:17.000+01:00' │
+│ roundTimeSeconds  │         112          │
+│      teamWon      │     'TERRORIST'      │
+│    ctTeamName     │     'NAVI GGBET'     │
+│ terroristTeamName │    'TeamVitality'    │
+│      ctScore      │          6           │
+│  terroristScore   │          16          │
+└───────────────────┴──────────────────────┘
+Terrorist players stats
+┌─────────┬────────────┬─────────────┬─────────┬───────┬─────────┬──────────────────────────────────────────────────────────────────┬────────────┬───────────┐
+│ (index) │ playerName │    team     │ assists │ kills │ attacks │                           weaponsUsed                            │ damageDone │ headShots │
+├─────────┼────────────┼─────────────┼─────────┼───────┼─────────┼──────────────────────────────────────────────────────────────────┼────────────┼───────────┤
+│    0    │  'ZywOo'   │ 'TERRORIST' │    0    │   4   │   13    │           'molotov, hegrenade, c4, smokegrenade, ak47'           │    529     │     2     │
+│    1    │  'shox '   │ 'TERRORIST' │    0    │   0   │    0    │ 'knife, glock, vesthelm, ak47, molotov, smokegrenade, flashbang' │     0      │     0     │
+│    2    │ 'misutaaa' │ 'TERRORIST' │    0    │   1   │    4    │                  'smokegrenade, molotov, ak47'                   │    191     │     1     │
+│    3    │  'Kyojin'  │ 'TERRORIST' │    0    │   0   │    0    │        'molotov, smokegrenade, flashbang, hegrenade, c4'         │     0      │     0     │
+│    4    │   'apEX'   │ 'TERRORIST' │    0    │   0   │    0    │                'smokegrenade, flashbang, molotov'                │     0      │     0     │
+└─────────┴────────────┴─────────────┴─────────┴───────┴─────────┴──────────────────────────────────────────────────────────────────┴────────────┴───────────┘
+Counter Terrorist players stats
+┌─────────┬──────────────┬──────┬─────────┬───────┬─────────┬──────────────────────────────────────────────────────────────────────────────────────────┬────────────┬───────────┐
+│ (index) │  playerName  │ team │ assists │ kills │ attacks │                                       weaponsUsed                                        │ damageDone │ headShots │
+├─────────┼──────────────┼──────┼─────────┼───────┼─────────┼──────────────────────────────────────────────────────────────────────────────────────────┼────────────┼───────────┤
+│    0    │  'Boombl4'   │ 'CT' │    0    │   0   │    2    │ 'knife, hkp2000, smokegrenade, hegrenade, incgrenade, mp9, flashbang, vesthelm, defuser' │     30     │     0     │
+│    1    │  'Perfecto'  │ 'CT' │    0    │   0   │    1    │      'knife, hkp2000, vest, famas, incgrenade, smokegrenade, flashbang, hegrenade'       │     20     │     0     │
+│    2    │   's1mple'   │ 'CT' │    2    │   0   │    4    │      'knife, hkp2000, vesthelm, m4a1, smokegrenade, flashbang, hegrenade, defuser'       │    137     │     1     │
+│    3    │ 'electronic' │ 'CT' │    0    │   1   │    2    │                      'm4a1, smokegrenade, m4a1_silencer, flashbang'                      │    115     │     1     │
+│    4    │    'b1t'     │ 'CT' │    0    │   3   │    6    │                       'famas, smokegrenade, hegrenade, flashbang'                        │    301     │     3     │
+└─────────┴──────────────┴──────┴─────────┴───────┴─────────┴──────────────────────────────────────────────────────────────────────────────────────────┴────────────┴───────────┘
