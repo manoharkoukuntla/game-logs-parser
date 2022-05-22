@@ -1,4 +1,5 @@
 import { DateTime } from 'luxon';
+import { performance } from 'perf_hooks';
 
 import {
   Player,
@@ -119,6 +120,17 @@ export class GameRound {
 
   getCtPlayerStats(): PlayerRoundPerformance[] {
     return this.playerPerformances.filter((player) => player.team === 'CT');
+  }
+
+  clearPlayerRoundStats() {
+    this.playerPerformances.forEach(performance => {
+      performance.assists = 0;
+      performance.attacks = 0;
+      performance.damageDone = 0;
+      performance.headShots = 0;
+      performance.kills = 0;
+      performance.weaponsUsed = new Set<string>()
+    })
   }
 
   private getPlayerByName(

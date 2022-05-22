@@ -38,6 +38,7 @@ async function solve() {
         const roundEvent: RoundEvent = log as RoundEvent;
         if (roundEvent.event === 'Round_Start') {
           gameRound.startTime = roundEvent.logTime.dateTime;
+          gameRound.clearPlayerRoundStats();
         } else if (roundEvent.event === 'Round_End') {
           gameRound.endTime = roundEvent.logTime.dateTime;
           gameRounds.push(gameRound);
